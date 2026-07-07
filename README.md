@@ -1,7 +1,26 @@
-# MeshWave
+<p align="center">
+  <img src="docs/assets/meshwave-banner.svg" alt="MeshWave — local-first LoRa mesh messaging" width="920"/>
+</p>
 
-**MESH·WAVE**  
-_Local-first LoRa mesh messaging_
+<pre align="center">
+<code>
+<span>▗▄▄▄▖▗▄▄▄▖▗▄▄▖ ▗▞▀▚▖ ▄▄▄ ▗▖ ▗▖▗▄▄▄▖▗▖ ▗▖▗▄▄▄▖</span>
+<span>▐▌   ▐▌   ▐▌ ▐▌▐▛ ▜▌▐▌ ▐▌▐▌ ▐▌  █  ▐▌ ▐▌▐▌</span>
+<span>▐▛▀▀▘▐▛▀▀▘▐▛▀▘ ▐▌ ▐▌▐▛▀▜▌▐▌ ▐▌  █  ▐▌ ▐▌▐▛▀▀▘</span>
+<span>▐▙▄▄▖▐▙▄▄▖▐▌   ▝▚▄▞▘▐▌ ▐▌▝▚▄▞▘▗▄█▄▖▝▚▄▞▘▐▙▄▄▖</span>
+
+<span>░▒▓█</span>  <b>MESH·WAVE</b>  <span>█▓▒░</span>
+<span>～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～</span>
+<span>▄▀▀▀▄  ▄▀▀▀▄  ▄▀▀▀▄  ▄▀▀▀▄  ▄▀▀▀▄  ▄▀▀▀▄  ▄▀▀▀▄  ▄▀▀▀▄  ▄▀▀▀▄</span>
+<span>▀▄▄▄▀  ▀▄▄▄▀  ▀▄▄▄▀  ▀▄▄▄▀  ▀▄▄▄▀  ▀▄▄▄▀  ▀▄▄▄▀  ▀▄▄▄▀  ▀▄▄▄▀</span>
+<span>～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～</span>
+</code>
+</pre>
+
+<p align="center">
+  <strong>Local-first LoRa mesh messaging</strong><br/>
+  <em>UART E220 ↔ SPI SX1278 · ESP32 · no cloud · no LoRaWAN</em>
+</p>
 
 MeshWave is a lightweight, local-only LoRa messaging stack and phone gateway for ESP32 devices, bridging **UART-based E220** radios and **SPI-based SX1278** radios under one protocol.  
 Built for field comms: reliable delivery (ACK/retry/dedup), compact packets, on-device history, and a simple WebSocket web UI—no cloud, no LoRaWAN.
