@@ -83,8 +83,8 @@
   <text x="460" y="152" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
         font-size="15" letter-spacing="4" fill="#8b949e">LOCAL-FIRST LORA MESH MESSAGING</text>
 
-  <!-- UART ” SPI hint -->
+  <!-- UART / SPI hint -->
   <text x="460" y="248" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="#6e7681">
-    UART E220  È  SPI SX1278  È  ESP32
+    UART E220  &#9670;  SPI SX1278  &#9670;  ESP32
   </text>
 </svg>
