@@ -1,0 +1,7 @@
+{
+  "name": "loralink-websocket",
+  "version": "0.1.0",
+  "description": "LoRaLink gateway WebSocket chat",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

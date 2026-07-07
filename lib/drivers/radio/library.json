@@ -1,0 +1,7 @@
+{
+  "name": "loralink-radio",
+  "version": "0.1.0",
+  "description": "LoRaLink IRadioDriver abstraction",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

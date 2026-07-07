@@ -1,0 +1,10 @@
+{
+  "name": "loralink-protocol",
+  "version": "0.1.0",
+  "description": "LoRaLink wire protocol codec",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "dependencies": {
+    "loralink-common": "*"
+  }
+}

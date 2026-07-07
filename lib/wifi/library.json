@@ -1,0 +1,7 @@
+{
+  "name": "loralink-wifi",
+  "version": "0.1.0",
+  "description": "LoRaLink WiFi AP manager",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

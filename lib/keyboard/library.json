@@ -1,0 +1,7 @@
+{
+  "name": "loralink-keyboard",
+  "version": "0.1.0",
+  "description": "LoRaLink Cardputer keyboard",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

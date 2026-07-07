@@ -1,0 +1,10 @@
+{
+  "name": "loralink-e220",
+  "version": "0.1.0",
+  "description": "EBYTE E220-400T22S UART driver (Cardputer only)",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "build": {
+    "flags": ["-D LORALINK_DRIVER_E220"]
+  }
+}

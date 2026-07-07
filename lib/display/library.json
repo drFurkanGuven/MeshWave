@@ -1,0 +1,7 @@
+{
+  "name": "loralink-display",
+  "version": "0.1.0",
+  "description": "LoRaLink display UI",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

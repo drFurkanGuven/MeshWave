@@ -1,0 +1,10 @@
+{
+  "name": "loralink-sx1278",
+  "version": "0.1.0",
+  "description": "SX1278 SPI driver for T3 V1.6.1 (Gateway only)",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "build": {
+    "flags": ["-D LORALINK_DRIVER_SX1278"]
+  }
+}

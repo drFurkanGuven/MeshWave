@@ -1,0 +1,7 @@
+{
+  "name": "loralink-chat",
+  "version": "0.1.0",
+  "description": "LoRaLink chat service",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

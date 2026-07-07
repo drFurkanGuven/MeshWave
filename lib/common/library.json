@@ -1,0 +1,7 @@
+{
+  "name": "loralink-common",
+  "version": "0.1.0",
+  "description": "LoRaLink shared types, logger, queues",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

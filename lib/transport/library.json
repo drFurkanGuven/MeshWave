@@ -1,0 +1,12 @@
+{
+  "name": "loralink-transport",
+  "version": "0.1.0",
+  "description": "LoRaLink reliable transport layer",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "dependencies": {
+    "loralink-common": "*",
+    "loralink-protocol": "*",
+    "loralink-radio": "*"
+  }
+}

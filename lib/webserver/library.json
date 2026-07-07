@@ -1,0 +1,7 @@
+{
+  "name": "loralink-webserver",
+  "version": "0.1.0",
+  "description": "LoRaLink gateway HTTP server",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

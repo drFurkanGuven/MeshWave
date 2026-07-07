@@ -1,0 +1,10 @@
+{
+  "name": "loralink-storage",
+  "version": "0.1.0",
+  "description": "Message store — both devices, 1000-msg circular buffer",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "dependencies": {
+    "LittleFS": "*"
+  }
+}
